@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/kme-mina-logo.png" alt="KME Mina" width="220"></p>
+<p align="center"><img src="kme-mina-logo.png" alt="KME Mina" width="220"></p>
 
 # Colligative Properties of Solutions — Interactive Simulation
 
